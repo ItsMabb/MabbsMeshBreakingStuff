@@ -9,4 +9,6 @@ Window/Package Manager then search Pro Builder and click the download/install bu
 
 after you have done this, you can use the knife tool in pro builder to make slices in the mesh before hand to make the effect of the mesh slicing better
 
+THIS SCRIPT IS NETWORKED WITH PHOTON, A RELEASE FOR NO PHOTON WILL BE IN A RELEASE ON ANOTHER REPOSITORY 
+
 THANK YOU!!!!!!!
